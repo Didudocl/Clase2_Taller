@@ -1,6 +1,6 @@
 "use strict";
 
-export async function getempresA(req, res) {
+export async function getempresaA(req, res) {
   try {
     const { } = req.query;
 
